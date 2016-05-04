@@ -4,3 +4,6 @@
 [submodule "plugins/worldmap-panel"]
 	path = plugins/worldmap-panel
 	url = https://github.com/grafana/worldmap-panel.git
+[submodule "plugins/clock-panel"]
+	path = plugins/clock-panel
+	url = https://github.com/grafana/clock-panel.git
