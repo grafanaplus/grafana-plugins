@@ -7,3 +7,6 @@
 [submodule "plugins/clock-panel"]
 	path = plugins/clock-panel
 	url = https://github.com/grafana/clock-panel.git
+[submodule "plugins/heatmap-epoch-panel"]
+	path = plugins/heatmap-epoch-panel
+	url = https://github.com/mtanda/grafana-heatmap-epoch-panel.git
