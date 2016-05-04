@@ -1,3 +1,6 @@
 [submodule "plugins/piechart-panel"]
 	path = plugins/piechart-panel
 	url = https://github.com/grafana/piechart-panel
+[submodule "plugins/worldmap-panel"]
+	path = plugins/worldmap-panel
+	url = https://github.com/grafana/worldmap-panel.git
